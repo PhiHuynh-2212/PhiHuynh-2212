@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **phihuynhdata@gmail.com**
 
-- ⚡ Fun fact **Data is not just a tool — it’s my second language**
+- ⚡ Fun fact **Data Is Not Just A Tool — It’s my Second Language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

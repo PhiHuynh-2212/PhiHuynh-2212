@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phi Huỳnh Data (Huỳnh Nhật Phi)</h1>
-<h3 align="center">Hiện tại tôi là một thực tập sinh về Data Analyst</h3>
+<h3 align="center">I am currently a Data Analyst Intern</h3>
 
 - 🔭 I’m currently working on [FPT Retail](https://frt.vn/)
 
@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PhiHuynh-2212](https://github.com/PhiHuynh-2212)
 
-- 💬 Ask me about **Power BI, SQL, Data Cleaning, Python For Data Analysis, Probability and Statistics**
+- 💬 Ask me about **Power BI, SQL, Data cleaning, Python for Data Analysis, Probability and Statistics**
 
 - 📫 How to reach me **phihuynhdata@gmail.com**
 
-- ⚡ Fun fact **Data Is Not Just A Tool — It’s my Second Language**
+- ⚡ Fun fact **Data is not just a tool — It’s my second language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phi Huỳnh Data (Huỳnh Nhật Phi)</h1>
 <h3 align="center">I am currently a Data Analyst Fresher</h3>
 
-- 🔭 I’m currently working on [FPT Retail](https://frt.vn/)
+- 🔭 Worked at FPT Retail and Transform Group.
 
 - 🌱 I’m currently learning **DataWare House, Python For OOP, Mechine Learning,...**
 
